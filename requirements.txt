@@ -44,5 +44,5 @@ Quart==0.17.0
 creart~=0.3.0
 pydub~=0.25.1
 httpcore~=0.17.3
-g4f~=0.0.2.6
+g4f~=0.2.1.0
 creart
